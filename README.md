@@ -1,2 +1,14 @@
-# README.md
-Proactiva Tecnóloga en Análisis y Desarrollo de Sistemas de Información, con cualidades distintivas como: puntualidad, responsabilidad, alta facilidad de absorber conocimientos teóricos y prácticos, excelentes relaciones interpersonales, capacidad para enfrentar retos y alto grado de adaptabilidad e interpretación de las políticas organizacionales.
+# Hola, soy Angee Ramirez 👋
+
+Analista de datos en formación con foco en SQL y Python.
+Busco mi primer trabajo remoto donde los datos cuenten historias.
+
+**Actualmente aprendiendo:**
+- MySQL · GROUP BY · JOINs
+- Python · Pandas
+- Power BI (próximamente)
+
+**Mis proyectos:**
+- portafolio-analisis-datos — mis ejercicios de SQL documentados
+
+📍 Santiago, Chile  |  🌐 Trabajo remoto
